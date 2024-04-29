@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/goit-react-woolf-hw-05-movies/static/css/main.fdb350cb.css",
+    "main.js": "/goit-react-woolf-hw-05-movies/static/js/main.4b3573c0.js",
+    "static/js/736.37365288.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/736.37365288.chunk.js",
+    "static/js/387.6fd715c5.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/387.6fd715c5.chunk.js",
+    "static/js/544.7c8e1eda.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/544.7c8e1eda.chunk.js",
+    "static/js/257.216f4769.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/257.216f4769.chunk.js",
+    "static/js/414.4df35849.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/414.4df35849.chunk.js",
+    "static/js/888.511479ec.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/888.511479ec.chunk.js",
+    "static/js/294.95b4adfa.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/294.95b4adfa.chunk.js",
+    "static/media/noImage.png": "/goit-react-woolf-hw-05-movies/static/media/noImage.766050a83a9c288363de.png",
+    "index.html": "/goit-react-woolf-hw-05-movies/index.html",
+    "main.fdb350cb.css.map": "/goit-react-woolf-hw-05-movies/static/css/main.fdb350cb.css.map",
+    "main.4b3573c0.js.map": "/goit-react-woolf-hw-05-movies/static/js/main.4b3573c0.js.map",
+    "736.37365288.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/736.37365288.chunk.js.map",
+    "387.6fd715c5.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/387.6fd715c5.chunk.js.map",
+    "544.7c8e1eda.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/544.7c8e1eda.chunk.js.map",
+    "257.216f4769.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/257.216f4769.chunk.js.map",
+    "414.4df35849.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/414.4df35849.chunk.js.map",
+    "888.511479ec.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/888.511479ec.chunk.js.map",
+    "294.95b4adfa.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/294.95b4adfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdb350cb.css",
+    "static/js/main.4b3573c0.js"
+  ]
+}
